@@ -1,0 +1,5 @@
+pipeline=pipeline__lens_sie__source_inversion
+phase=phase_1__source_sersic
+dataset_name=None
+phase_tag=phase_tag__sub_2
+pipeline_tag=None
